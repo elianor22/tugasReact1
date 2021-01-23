@@ -1,0 +1,44 @@
+{
+	"roadioButton": [
+	  {
+		"soal": "Siapakah penemu baling-baling bambu",
+		"items": [
+			{
+				"a": "Doraemon"
+			},
+			{
+				"a": "nobita"
+			},
+			{
+				"a": "hanif"
+			},
+			{
+				"a": "naruto"
+			}
+		]
+	  }
+	],
+	"checkBox": [
+		{
+		  "soal": "Siapakah penemu baling-baling bambu",
+		  "items": [
+			  {
+				  "a": "Trainer Juara Coding"
+			  },
+			  {
+				  "a": "Manusia"
+			  },
+			  {
+				  "a": "Anggota Avenger"
+			  }
+		  ]
+		}
+	  ],
+	"textArea":[
+		{
+			"soal": "Ceritakan pengalaman anda ketika sedang tidur:",
+			"items": "tadi malam saya mimpi indah tau taunya waktu sadar eh yang bangun ada 2"
+		}
+	]
+  }
+  
