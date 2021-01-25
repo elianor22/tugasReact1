@@ -7,31 +7,21 @@
 				"a": "Doraemon"
 			},
 			{
-				"a": "nobita"
+				"b": "nobita"
 			},
 			{
-				"a": "hanif"
+				"c": "hanif"
 			},
 			{
-				"a": "naruto"
+				"d": "naruto"
 			}
 		]
 	  }
 	],
 	"checkBox": [
 		{
-		  "soal": "Siapakah penemu baling-baling bambu",
-		  "items": [
-			  {
-				  "a": "Trainer Juara Coding"
-			  },
-			  {
-				  "a": "Manusia"
-			  },
-			  {
-				  "a": "Anggota Avenger"
-			  }
-		  ]
+		  "soal": "pilihlah 3 yang benar mengenai aqil",
+		  "items": ["Trainer Juara Coding", "Manusia","Anggota Avenger"]
 		}
 	  ],
 	"textArea":[

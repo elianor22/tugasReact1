@@ -15,7 +15,7 @@ export default class Home extends Component {
     return (
       <div>
         <div className="container">
-          <marquee> Aji Ganteng Aji Ganteng</marquee>
+          
             {/* data yang di ambil dari json lalu di lempar ke komponen masing2 */}
           <RadioButton data={DataJson.roadioButton} /> 
           <CheckBox data={DataJson.checkBox} />

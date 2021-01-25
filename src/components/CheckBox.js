@@ -22,7 +22,7 @@ export default function CheckBox({ data }) {
               id={check+index2+1}
             />
             <label className="form-check-label" htmlFor={check+index2+1}>
-              {check.a}
+              {check}
             </label>
           </div>
         ))}
